@@ -198,21 +198,11 @@ This project uses the MNIST digit recognition dataset from Kaggle:
 - Dataset: https://www.kaggle.com/competitions/digit-recognizer
 - Files: train.csv (42,000 samples) and test.csv (28,000 samples)
 
-Tutorial Credit
----------------
-
-This implementation is based on the excellent tutorial by Samson Zhang:
-- YouTube Tutorial: "Neural Networks from Scratch" 
-- Video Link: https://www.youtube.com/watch?v=w8yWXqWQYmU&t=1s
-- Channel: Samson Zhang
-
-The tutorial provides a clear, step-by-step explanation of building neural networks from scratch without using high-level deep learning frameworks.
 
 Acknowledgments
 ---------------
 
 - MNIST Dataset: Yann LeCun, Corinna Cortes, Christopher J.C. Burges
-- Tutorial Creator: Samson Zhang for the comprehensive YouTube explanation
 - Dataset Platform: Kaggle for hosting the MNIST digit recognizer competition
 - Community: Thanks to all contributors and learners
 
