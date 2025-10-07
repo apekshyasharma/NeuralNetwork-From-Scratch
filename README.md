@@ -202,7 +202,6 @@ This project uses the MNIST digit recognition dataset from Kaggle:
 Acknowledgments
 ---------------
 
-- MNIST Dataset: Yann LeCun, Corinna Cortes, Christopher J.C. Burges
 - Dataset Platform: Kaggle for hosting the MNIST digit recognizer competition
 - Community: Thanks to all contributors and learners
 
